@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta charset="utf-8">
-    <title>MODULE 2 SOLUTION</title>
-</head>
-<style>
-    * {
+   * {
         box-sizing: border-box;
     }
     body {
@@ -124,4 +116,3 @@
             width: 100%;
         }
     }
-</style>
